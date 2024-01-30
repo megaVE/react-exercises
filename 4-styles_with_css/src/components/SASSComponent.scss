@@ -1,0 +1,10 @@
+$background: #ddd;
+$main-color: #111;
+
+.sass-container {
+    background-color: $background;
+
+    p {
+        color: $main-color;
+    }
+}
